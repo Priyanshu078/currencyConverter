@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="enter_the_values">Enter the values</string>
+    <string name="conversionText">Please select the conversion</string>
+    <string name="rupee_to_dollars">Rupee to Dollars</string>
+    <string name="dollars_to_rupee">Dollars to Rupee</string>
+    <string name="rupee_to_euro">Rupee to Euro</string>
+    <string name="euro_to_rupee">Euro to Rupee</string>
+    <string name="rupee_to_yen">Rupee to Yen</string>
+    <string name="yen_to_rupees">Yen to Rupees</string>
+    <string name="dollars_to_euro">Dollars to Euro</string>
+    <string name="euro_to_dollars">Euro to Dollars</string>
+    <string name="answer">Answer</string>
+    <string name="here_our_converted_currency_will_be_there">Here our converted currency will be there</string>
+    <string name="convert">Convert</string>
+</resources>
